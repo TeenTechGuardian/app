@@ -1,5 +1,5 @@
 # Application
-Bienvenue dans le repository "app" de l'organisation TeenTechGuardian! Ce repository est dédié aux applications officielles de TeenTechGuardian pour différentes plateformes, y compris Windows, iOS et Android. Ici, vous trouverez les fichiers nécessaires pour télécharger et installer nos applications, ainsi que les instructions d'installation et les notes de version.
+Bienvenue dans le repository "app" de l'organisation TeenTechGuardian! Ce repository est dédié aux applications officielles de TeenTechGuardian pour différentes plateformes, y compris Windows et Android. Ici, vous trouverez les fichiers nécessaires pour télécharger et installer nos applications, ainsi que les instructions d'installation et les notes de version.
 
 # Contenu du Repository :
 # Windows
